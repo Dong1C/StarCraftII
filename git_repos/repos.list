@@ -1,0 +1,7 @@
+# git_repos/repos.list - 仓库列表
+# 格式: name|git_url|description
+# 以 # 开头为注释
+
+learn_afk|git@github.com:Dong1C/learn_afk.git|CS学习路线图，体量大，需定期同步
+llm|git@github.com:Dong1C/llm_24d4c6a3.git|LLM相关资料仓库
+StarCraftII|git@github.com:Dong1C/StarCraftII.git|星际争霸背板工具仓库
