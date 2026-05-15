@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "interval_history": [
+    {
+      "timestamp": 1776651577983,
+      "interval_ms": 42498975,
+      "interval_hours": 11.81,
+      "completion_rate": 0.82,
+      "completion_percent": "82.0%",
+      "files_modified": [
+        "阅读方法.md",
+        "completion_guide.md"
+      ],
+      "commit": "715251b"
+    },
+    {
+      "timestamp": 1776865014368,
+      "interval_ms": 42795544,
+      "interval_hours": 11.89,
+      "completion_rate": 0.93,
+      "completion_percent": "93.0%",
+      "files_modified": [
+        "学习动机.md"
+      ],
+      "commit": "91d3f03"
+    },
+    {
+      "timestamp": 1776865389741,
+      "interval_ms": 42795544,
+      "interval_hours": 11.89,
+      "completion_rate": 0.93,
+      "completion_percent": "93.0%",
+      "files_modified": [
+        "有限与无限的游戏.md"
+      ],
+      "commit": "a1ef23d"
+    },
+    {
+      "timestamp": 1776908061442,
+      "interval_ms": 42533165,
+      "interval_hours": 11.81,
+      "completion_rate": 0.83,
+      "completion_percent": "83.0%",
+      "files_modified": [
+        "睡眠与学习.md",
+        "completion_guide.md"
+      ],
+      "commit": "b43ff54"
+    },
+    {
+      "timestamp": 1777286102619,
+      "interval_ms": 42533165,
+      "interval_hours": 11.814768055555556,
+      "completion_rate": 0.83,
+      "completion_percent": "83.0%",
+      "files_modified": [
+        "失败与学习.md"
+      ],
+      "commit": "2c033ca"
+    },
+    {
+      "timestamp": 1777328687939,
+      "interval_ms": 42565687,
+      "interval_hours": 11.823801944444444,
+      "completion_rate": 0.86,
+      "completion_percent": "86.0%",
+      "files_modified": [
+        "失败与学习.md"
+      ],
+      "commit": "4fdd2c5"
+    },
+    {
+      "timestamp": 1777371300000,
+      "interval_ms": 42730089,
+      "interval_hours": 11.869469166666667,
+      "completion_rate": 0.9,
+      "completion_percent": "90.0%",
+      "files_modified": [
+        "学习动机.md"
+      ],
+      "commit": "30a3afc"
+    },
+    {
+      "timestamp": 1777413869402,
+      "interval_ms": 42718112,
+      "interval_hours": 11.866419777777779,
+      "completion_rate": 0.9,
+      "completion_percent": "90.0%",
+      "files_modified": [
+        "学习与情绪.md"
+      ],
+      "commit": "6ae6ffa"
+    },
+    {
+      "timestamp": 1777457243802,
+      "interval_ms": 42774807,
+      "interval_hours": 11.881890833333333,
+      "completion_rate": 0.92,
+      "completion_percent": "92.0%",
+      "files_modified": [
+        "认知天性.md"
+      ],
+      "commit": "f093616"
+    },
+    {
+      "timestamp": 1777499260279,
+      "interval_ms": 42774807,
+      "interval_hours": 11.881890833333333,
+      "completion_rate": 0.92,
+      "completion_percent": "92.0%",
+      "files_modified": [
+        "学习的哲学.md"
+      ],
+      "commit": "a78ac89"
+    },
+    {
+      "timestamp": 1777542085408,
+      "interval_ms": 42425248,
+      "interval_hours": 11.78,
+      "completion_rate": 0.8,
+      "completion_percent": "80.0%",
+      "files_modified": [
+        "学习动机.md"
+      ],
+      "commit": "27dc2a4"
+    },
+    {
+      "timestamp": 1777612860000,
+      "interval_ms": 42680669,
+      "interval_hours": 11.85574138888889,
+      "completion_rate": 0.88,
+      "completion_percent": "88.0%",
+      "files_modified": [
+        "学习环境.md"
+      ],
+      "commit": "7d0625c"
+    },
+    {
+      "timestamp": 1777627277555,
+      "interval_ms": 42753007,
+      "interval_hours": 11.875835277777778,
+      "completion_rate": 0.91,
+      "completion_percent": "91.0%",
+      "files_modified": [
+        "深度工作.md"
+      ],
+      "commit": "32bb5d0"
+    },
+    {
+      "timestamp": 1777713531934,
+      "interval_ms": 42753007,
+      "interval_hours": 11.875835277777778,
+      "completion_rate": 0.91,
+      "completion_percent": "91.0%",
+      "files_modified": [
+        "刻意练习.md"
+      ],
+      "commit": "7e146ab"
+    },
+    {
+      "timestamp": 1777755196688,
+      "interval_ms": 42680668,
+      "interval_hours": 11.855741111111112,
+      "completion_rate": 0.88,
+      "completion_percent": "88.0%",
+      "files_modified": [
+        "遗忘与记忆系统.md"
+      ],
+      "commit": "1a4cd66"
+    },
+    {
+      "timestamp": 1777798487168,
+      "interval_ms": 42680669,
+      "interval_hours": 11.8557,
+      "completion_rate": 0.88,
+      "completion_percent": "88.0%",
+      "files_modified": [
+        "批判性思维.md"
+      ],
+      "commit": "e8545d1"
+    },
+    {
+      "timestamp": 1777840751552,
+      "interval_ms": 42596623,
+      "interval_hours": 11.832395277777778,
+      "completion_rate": 0.85,
+      "completion_percent": "85.0%",
+      "files_modified": [
+        "阅读方法.md",
+        "completion_guide.md"
+      ],
+      "commit": "cbb141b"
+    },
+    {
+      "timestamp": 1777884008167,
+      "interval_ms": 43513838,
+      "interval_hours": 12.087177222222222,
+      "completion_rate": 0.86,
+      "completion_percent": "86.0%",
+      "files_modified": [
+        "间隔重复.md"
+      ],
+      "commit": "ef50bf9"
+    },
+    {
+      "timestamp": 1777927001247,
+      "interval_ms": 42680668,
+      "interval_hours": 11.855741,
+      "completion_rate": 0.88,
+      "completion_percent": "88.0%",
+      "files_modified": [
+        "学习项目管理.md"
+      ],
+      "commit": "316db1e"
+    },
+    {
+      "timestamp": 1777969477869,
+      "interval_ms": 42730089,
+      "interval_hours": 11.869469166666667,
+      "completion_rate": 0.9,
+      "completion_percent": "90.0%",
+      "files_modified": [
+        "原则.md",
+        "completion_guide.md"
+      ],
+      "commit": "ac245bd"
+    },
+    {
+      "timestamp": 1778012555618,
+      "interval_ms": 42705997,
+      "interval_hours": 11.862776944444445,
+      "completion_rate": 0.89,
+      "completion_percent": "89.0.0%",
+      "files_modified": [
+        "费曼技巧.md",
+        "completion_guide.md"
+      ],
+      "commit": "ee26d31"
+    }
+  ],
+  "current_interval_ms": 42705997,
+  "last_updated_completeness": 0.89,
+  "completeness_file": "principle_for_becoming_good_learner/COMPLETION_STANDARD.md",
+  "completion_history": [
+    {
+      "timestamp": 1776651577983,
+      "completion_rate": 0.82,
+      "files_evaluated": 26
+    },
+    {
+      "timestamp": 1776694121421,
+      "completion_rate": 0.87,
+      "files_evaluated": 27
+    },
+    {
+      "timestamp": 1776736568592,
+      "completion_rate": 0.92,
+      "files_evaluated": 27
+    },
+    {
+      "timestamp": 1776822218824,
+      "completion_rate": 0.93,
+      "files_evaluated": 28
+    },
+    {
+      "timestamp": 1776865389741,
+      "completion_rate": 0.93,
+      "files_evaluated": 26
+    },
+    {
+      "timestamp": 1776908061442,
+      "completion_rate": 0.83,
+      "files_evaluated": 26
+    },
+    {
+      "timestamp": 1777286102619,
+      "completion_rate": 0.83,
+      "files_evaluated": 28
+    },
+    {
+      "timestamp": 1777612860000,
+      "completion_rate": 0.88,
+      "files_evaluated": 26
+    },
+    {
+      "timestamp": 1777840751552,
+      "completion_rate": 0.85,
+      "files_evaluated": 27
+    },
+    {
+      "timestamp": 1777927001247,
+      "completion_rate": 0.88,
+      "files_evaluated": 29
+    },
+    {
+      "timestamp": 1778012555618,
+      "completion_rate": 0.89,
+      "files_evaluated": 26
+    }
+  ]
+}
